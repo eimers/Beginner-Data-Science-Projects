@@ -34,3 +34,5 @@ env/
 # Claude
 CLAUDE.md
 PROJECT_CHECKLIST.md
+# Claude Code workspace
+.claude/
