@@ -10,7 +10,7 @@ from nltk.stem import SnowballStemmer
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.model_selection import train_test_split
 
-data = pd.read_csv("spam-edited.csv",encoding='latin-1')
+data = pd.read_csv("spam.csv",encoding='latin-1')
 
 #print(data.head())
 
