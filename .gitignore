@@ -31,6 +31,20 @@ env/
 *.pth
 *.onnx
 
+# Image datasets — host externally, do not commit (keeps repo lightweight).
+# Per-project: download from the source linked in each project's README.
+# Scoped to common raw-image dataset dirs, NOT all images (README screenshots
+# and notebook result plots are still tracked).
+**/flowers/
+**/Dataset*/
+**/dataset/
+**/images/
+**/Images/
+**/train/
+**/test/
+**/val/
+**/validation/
+
 # Claude
 CLAUDE.md
 PROJECT_CHECKLIST.md
