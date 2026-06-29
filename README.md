@@ -110,6 +110,23 @@ Tackle more complex real-world problems.
 | 16 | [Object Detection](Object%20Detection) | Computer Vision | Advanced |
 | 17 | [Pose Estimation](Pose%20Estimation) | Computer Vision | Advanced |
 | 18 | [Robotics and Computer Integrated Manufacturing](Robotics%20and%20Computer%20Integrated%20Manufacturing) | Robotics | Advanced |
+| 19 | [Restaurant Revenue Prediction](Restaurant%20Revenue%20Prediction) | Regression | Beginner |
+| 20 | [Image Color Compression](Image%20Color%20Compression) | Clustering | Beginner |
+| 21 | [Anomaly Detection in Transactions](Anomaly%20Detection%20in%20Transactions) | Anomaly Detection | Intermediate |
+| 22 | [Movie Recommendation System](Movie%20Recommendation%20System) | Recommendation | Intermediate |
+| 23 | [Book Recommendation System](Book%20Recommendation%20System) | Recommendation | Intermediate |
+| 24 | [Music Recommendation System](Music%20Recommendation%20System) | Recommendation | Intermediate |
+| 25 | [Product Recommendation System](Product%20Recommendation%20System) | Recommendation | Intermediate |
+| 26 | [Restaurant Recommendation System](Restaurant%20Recommendation%20System) | Recommendation | Intermediate |
+| 27 | [Resume Screening / Classification](Resume%20Screening%20Classification) | NLP | Beginner |
+| 28 | [Amazon Review Sentiment Analysis](Amazon%20Review%20Sentiment%20Analysis) | NLP | Beginner |
+| 29 | [Toxic Comment Classification](Toxic%20Comment%20Classification) | NLP | Intermediate |
+| 30 | [Email Classification](Email%20Classification) | NLP | Beginner |
+| 31 | [Song Lyrics Genre Classification](Song%20Lyrics%20Genre%20Classification) | NLP | Intermediate |
+| 32 | [Autocorrect Tool](Autocorrect%20Tool) | NLP | Beginner |
+| 33 | [Text Summarization](Text%20Summarization) | NLP | Intermediate |
+| 34 | [Keyword Extraction](Keyword%20Extraction) | NLP | Intermediate |
+| 35 | [Chatbot (Rule-Based)](Chatbot%20Rule%20Based) | NLP | Beginner |
 
 ## Getting Started
 
