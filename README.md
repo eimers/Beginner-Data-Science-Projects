@@ -127,6 +127,12 @@ Tackle more complex real-world problems.
 | 33 | [Text Summarization](Text%20Summarization) | NLP | Intermediate |
 | 34 | [Keyword Extraction](Keyword%20Extraction) | NLP | Intermediate |
 | 35 | [Chatbot (Rule-Based)](Chatbot%20Rule%20Based) | NLP | Beginner |
+| 36 | [Weather Forecasting](Weather%20Forecasting) | Time Series | Intermediate |
+| 37 | [COVID-19 Trend Analysis](COVID-19%20Trend%20Analysis) | Time Series | Intermediate |
+| 38 | [Website Traffic Forecasting](Website%20Traffic%20Forecasting) | Time Series | Intermediate |
+| 39 | [Retail Sales Forecasting](Retail%20Sales%20Forecasting) | Time Series | Intermediate |
+| 40 | [Cryptocurrency Price Trend Analysis](Cryptocurrency%20Price%20Trend%20Analysis) | Time Series | Intermediate |
+| 41 | [Uber Ride Demand Forecasting](Uber%20Ride%20Demand%20Forecasting) | Time Series | Intermediate |
 
 ## Getting Started
 
