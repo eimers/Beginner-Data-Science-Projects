@@ -133,6 +133,11 @@ Tackle more complex real-world problems.
 | 39 | [Retail Sales Forecasting](Retail%20Sales%20Forecasting) | Time Series | Intermediate |
 | 40 | [Cryptocurrency Price Trend Analysis](Cryptocurrency%20Price%20Trend%20Analysis) | Time Series | Intermediate |
 | 41 | [Uber Ride Demand Forecasting](Uber%20Ride%20Demand%20Forecasting) | Time Series | Intermediate |
+| 42 | [World Happiness Report Analysis](World%20Happiness%20Report%20Analysis) | EDA / Visualization | Beginner |
+| 43 | [Netflix Content Analysis](Netflix%20Content%20Analysis) | EDA / Visualization | Beginner |
+| 44 | [Olympics History Analysis](Olympics%20History%20Analysis) | EDA / Visualization | Intermediate |
+| 45 | [FIFA Player Statistics Analysis](FIFA%20Player%20Statistics%20Analysis) | EDA / Visualization | Beginner |
+| 46 | [Spotify Tracks Analysis](Spotify%20Tracks%20Analysis) | EDA / Visualization | Beginner |
 
 ## Getting Started
 
