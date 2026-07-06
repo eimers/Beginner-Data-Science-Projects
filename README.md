@@ -138,6 +138,11 @@ Tackle more complex real-world problems.
 | 44 | [Olympics History Analysis](Olympics%20History%20Analysis) | EDA / Visualization | Intermediate |
 | 45 | [FIFA Player Statistics Analysis](FIFA%20Player%20Statistics%20Analysis) | EDA / Visualization | Beginner |
 | 46 | [Spotify Tracks Analysis](Spotify%20Tracks%20Analysis) | EDA / Visualization | Beginner |
+| 47 | [YouTube Trending Analysis](YouTube%20Trending%20Analysis) | EDA / Visualization | Beginner |
+| 48 | [E-Commerce Purchase Behavior Analysis](E-Commerce%20Purchase%20Behavior%20Analysis) | EDA / Visualization | Intermediate |
+| 49 | [Global Terrorism Analysis](Global%20Terrorism%20Analysis) | EDA / Visualization | Intermediate |
+| 50 | [Road Accident Analysis](Road%20Accident%20Analysis) | EDA / Visualization | Intermediate |
+| 51 | [Stack Overflow Developer Survey Analysis](Stack%20Overflow%20Developer%20Survey%20Analysis) | EDA / Visualization | Intermediate |
 
 ## Getting Started
 
