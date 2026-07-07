@@ -143,6 +143,11 @@ Tackle more complex real-world problems.
 | 49 | [Global Terrorism Analysis](Global%20Terrorism%20Analysis) | EDA / Visualization | Intermediate |
 | 50 | [Road Accident Analysis](Road%20Accident%20Analysis) | EDA / Visualization | Intermediate |
 | 51 | [Stack Overflow Developer Survey Analysis](Stack%20Overflow%20Developer%20Survey%20Analysis) | EDA / Visualization | Intermediate |
+| 52 | [Market Basket Analysis (Apriori)](Market%20Basket%20Analysis) | Applied | Intermediate |
+| 53 | [A/B Test Analysis](A-B%20Test%20Analysis) | Applied | Intermediate |
+| 54 | [Social Network Analysis](Social%20Network%20Analysis) | Applied | Intermediate |
+| 55 | [Plagiarism Detector](Plagiarism%20Detector) | Applied | Intermediate |
+| 56 | [QR Code Generator + Reader](QR%20Code%20Generator%20and%20Reader) | Applied | Beginner |
 
 ## Getting Started
 
