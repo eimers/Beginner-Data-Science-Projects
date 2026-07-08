@@ -148,6 +148,11 @@ Tackle more complex real-world problems.
 | 54 | [Social Network Analysis](Social%20Network%20Analysis) | Applied | Intermediate |
 | 55 | [Plagiarism Detector](Plagiarism%20Detector) | Applied | Intermediate |
 | 56 | [QR Code Generator + Reader](QR%20Code%20Generator%20and%20Reader) | Applied | Beginner |
+| 57 | [Supply Chain Demand Prediction](Supply%20Chain%20Demand%20Prediction) | Applied | Intermediate |
+| 58 | [Web Scraping + Analysis (Job Postings)](Web%20Scraping%20Job%20Postings) | Applied | Intermediate |
+| 59 | [PDF Table Extractor + Analyzer](PDF%20Table%20Extractor) | Applied | Intermediate |
+| 60 | [Personal Finance Tracker](Personal%20Finance%20Tracker) | Applied | Intermediate |
+| 61 | [Image Captioning](Image%20Captioning) | Applied / Deep Learning | Intermediate |
 
 ## Getting Started
 
